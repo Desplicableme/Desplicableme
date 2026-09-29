@@ -1,68 +1,87 @@
-# Arka
+<div align="center">
 
-**Systems & Linux Desktop Engineer**  
-Architecting high-performance desktop experiences for **Arch Linux** and **Wayland**.
+<!-- Animated Waving Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,35&height=180&section=header&text=Arka&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Systems%20%26%20Linux%20Desktop%20Engineer&descSize=18&descAlignY=58" width="100%" />
 
----
+<!-- Animated Dynamic Typing Terminal -->
+<a href="https://github.com/Desplicableme">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+modern+Linux+desktop+experiences...;Architecting+Aura+Store+for+Arch+Linux+%26+Hyprland;Crafting+fluid+Wayland+%26+GTK4+applications;Sandboxing+workflows+with+Docker+OCI+%26+Bubblewrap" alt="Typing SVG" />
+</a>
 
-### 🌌 Flagship Project: [Aura Store](https://github.com/Desplicableme/aura-store)
+<br/>
 
-> A minimal, modern macOS-inspired App Store purpose-built for Hyprland on Arch Linux.
+<!-- Identity Pills -->
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-Rolling-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://archlinux.org)
+[![Hyprland](https://img.shields.io/badge/Hyprland-Wayland-00c8ff?style=for-the-badge&logo=wayland&logoColor=white)](https://hyprland.org)
+[![GTK4](https://img.shields.io/badge/GTK4-Libadwaita-4a90e2?style=for-the-badge&logo=gnome&logoColor=white)](https://gnome.pages.gitlab.gnome.org/libadwaita/)
+[![Docker](https://img.shields.io/badge/Docker-OCI_Sandbox-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
-[![GitHub Stars](https://img.shields.io/github/stars/Desplicableme/aura-store?style=flat&color=38bdf8)](https://github.com/Desplicableme/aura-store/stargazers)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat)](https://github.com/Desplicableme/aura-store/blob/main/LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white)](https://archlinux.org)
-[![Compositor](https://img.shields.io/badge/Compositor-Hyprland-00c8ff?style=flat&logo=wayland&logoColor=white)](https://hyprland.org)
-[![Toolkit](https://img.shields.io/badge/Toolkit-GTK4_%2B_Libadwaita-4a90e2?style=flat&logo=gnome&logoColor=white)](https://gnome.pages.gitlab.gnome.org/libadwaita/)
-
-- **Dual-Tier Package Discovery**: Unified fuzzy search spanning official Pacman repositories and AUR with instant sub-millisecond filtering.
-- **Docker OCI Sandboxing**: Desktop applications run inside isolated containers with automated Wayland and OpenGL hardware forwarding.
-- **Canonical Snap Store**: Native integration for sandboxed Snap applications with zero host pollution.
-- **Storage & Cache Maintenance**: Safe, one-click pruning for Pacman, Paru build clones, Docker images, and system journal logs.
-- **Fluid Micro-Interactions**: Custom spring transitions, Libadwaita responsive breakpoints, and lifetime passwordless authorization.
-
-```bash
-git clone https://github.com/Desplicableme/aura-store.git
-cd aura-store && ./install.sh
-```
+</div>
 
 ---
 
-### 🛠️ Technical Focus & Stack
+### 💻 Tech Stack & Tooling
 
-```
-Operating Systems     Arch Linux, Linux Kernel, Systemd
-Display & Compositor  Wayland, Hyprland
-GUI & Toolkits        GTK4, Libadwaita, GObject, Cairo
-Languages             Python, C, C++, Rust, Bash
-Virtualization        Docker (OCI), Podman, Sandboxing
-Development Workflow  Neovim, Foot, Git
-```
+<div align="center">
 
-#### Languages & Technologies
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![Wayland](https://img.shields.io/badge/Wayland-005A9C?style=flat-square&logo=wayland&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-00c8ff?style=flat-square&logo=wayland&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![GTK4](https://img.shields.io/badge/GTK4-4a90e2?style=flat-square&logo=gnome&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=arch,linux,c,cpp,python,rust,bash,gtk,docker,git,github,githubactions,neovim,vscode&theme=dark" alt="Tech Stack Icons" />
+</a>
+
+<br/><br/>
+
+[![Wayland](https://img.shields.io/badge/Compositor-Wayland-005A9C?style=flat-square&logo=wayland&logoColor=white)](https://wayland.freedesktop.org/)
+[![Hyprland](https://img.shields.io/badge/Window_Manager-Hyprland-00c8ff?style=flat-square&logo=wayland&logoColor=white)](https://hyprland.org)
+[![Libadwaita](https://img.shields.io/badge/Design_Language-Libadwaita-2563EB?style=flat-square&logo=gnome&logoColor=white)](https://gnome.pages.gitlab.gnome.org/libadwaita/)
+[![Systemd](https://img.shields.io/badge/Init-Systemd-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://systemd.io)
+
+</div>
 
 ---
 
-### 📌 Repositories & Work
-- [**aura-store**](https://github.com/Desplicableme/aura-store) — Modern, minimal macOS-inspired App Store for Arch Linux & Hyprland.
-- [**Omarchy-waybar-config-files**](https://github.com/Desplicableme/Omarchy-waybar-config-files) — Custom Waybar configurations for Hyprland desktop environments.
-- [**Omarchy-Config-files**](https://github.com/Desplicableme/Omarchy-Config-files) — Optimized dotfiles and compositor configs for Arch Linux.
-- [**local_manifests-realme-salaa**](https://github.com/Desplicableme/local_manifests-realme-salaa) — Android ROM local build manifests and device configurations.
+### 🚀 Featured Repositories
+
+| Repository | Description | Ecosystem |
+| :--- | :--- | :--- |
+| [**aura-store**](https://github.com/Desplicableme/aura-store) | Minimal, modern macOS-inspired App Store purpose-built for Hyprland on Arch Linux | `Python` `GTK4` `Docker` `Wayland` |
+| [**Omarchy-waybar-config-files**](https://github.com/Desplicableme/Omarchy-waybar-config-files) | High-performance, modular Waybar configurations for Hyprland desktop environments | `CSS` `JSON` `Shell` `Waybar` |
+| [**Omarchy-Config-files**](https://github.com/Desplicableme/Omarchy-Config-files) | Hand-crafted Hyprland compositor configurations, animations, and window rules | `Lua` `Hyprlang` `Shell` |
+| [**local_manifests-realme-salaa**](https://github.com/Desplicableme/local_manifests-realme-salaa) | Android device build trees, vendor definitions, and custom ROM local manifests | `XML` `Android` `Git` |
 
 ---
 
-### 📬 Contact
-- **Email**: [arkamandal001@gmail.com](mailto:arkamandal001@gmail.com)
-- **GitHub**: [@Desplicableme](https://github.com/Desplicableme)
+### 📈 Activity & Streak
+
+<div align="center">
+
+<!-- Animated Streak Stats -->
+<a href="https://github.com/Desplicableme">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Desplicableme&theme=tokyonight&hide_border=true&background=0b0f19&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="80%" />
+</a>
+
+<br/><br/>
+
+<!-- Animated Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Desplicableme/Desplicableme/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Desplicableme/Desplicableme/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Desplicableme/Desplicableme/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
+### 📬 Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-arkamandal001%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkamandal001@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Desplicableme-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Desplicableme)
+
+<br/>
+
+<!-- Footer Subtle Decorative Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,35&height=90&section=footer" width="100%"/>
+
+</div>
