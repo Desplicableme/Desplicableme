@@ -1,14 +1,16 @@
 <div align="center">
 
-<!-- Animated Waving Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,35&height=180&section=header&text=Arka&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Systems%20%26%20Linux%20Desktop%20Engineer&descSize=18&descAlignY=58" width="100%" />
+<!-- Custom Animated Dark-Mode Banner (Hosted in Repo) -->
+<img src="https://raw.githubusercontent.com/Desplicableme/Desplicableme/main/banner.svg" alt="Arka - Systems &amp; Linux Desktop Architect" width="100%" />
+
+<br/><br/>
 
 <!-- Animated Dynamic Typing Terminal -->
 <a href="https://github.com/Desplicableme">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+modern+Linux+desktop+experiences...;Architecting+Aura+Store+for+Arch+Linux+%26+Hyprland;Crafting+fluid+Wayland+%26+GTK4+applications;Sandboxing+workflows+with+Docker+OCI+%26+Bubblewrap" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+modern+Linux+desktop+experiences...;Architecting+Aura+Store+for+Arch+Linux+%2B+Hyprland;Crafting+fluid+Wayland+and+GTK4+applications;Sandboxing+workflows+with+Docker+OCI+containers" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- Identity Pills -->
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-Rolling-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://archlinux.org)
@@ -62,11 +64,7 @@
 <br/><br/>
 
 <!-- Animated Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Desplicableme/Desplicableme/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Desplicableme/Desplicableme/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Desplicableme/Desplicableme/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
+<img src="https://raw.githubusercontent.com/Desplicableme/Desplicableme/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 
 </div>
 
@@ -78,10 +76,5 @@
 
 [![Email](https://img.shields.io/badge/Email-arkamandal001%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkamandal001@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Desplicableme-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Desplicableme)
-
-<br/>
-
-<!-- Footer Subtle Decorative Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,35&height=90&section=footer" width="100%"/>
 
 </div>
