@@ -1,6 +1,5 @@
 <div align="center">
 
-# Arka
 
 <a href="https://github.com/Desplicableme">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Linux+desktop+developer+%26+open-source+builder;Architecting+Aura+Store+for+Arch+Linux+%26+Hyprland;Crafting+modern+Wayland+%26+GTK4+experiences;Ricing+dotfiles+%26+sandboxed+container+tooling" alt="Typing SVG" />
